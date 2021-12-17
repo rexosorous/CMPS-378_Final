@@ -1,4 +1,4 @@
-# CMPS378 Midterm: Rigby Restaurant
+# CMPS378 Final: POS System
 ### Submitted By: J-Zach Loke
 
 # Description
